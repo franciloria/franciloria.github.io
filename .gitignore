@@ -1,0 +1,11 @@
+.DS_Store
+.claude/
+# CV source stays private on this Mac; only CV/Loria_CV.pdf is published
+CV/*.tex
+CV/sections/
+CV/*.aux
+CV/*.fdb_latexmk
+CV/*.fls
+CV/*.log
+CV/*.out
+CV/*.synctex.gz
